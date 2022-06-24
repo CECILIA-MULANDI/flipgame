@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    width: 50%;
+    height: 200px;
+    background: lightblue;
+    margin: 30% auto;
+    border-radius: 10px;
+}
+
+.coingame {
+    padding: 10% 20%;
+}
+
+.coingame button {
+    border-radius: 5px;
+    width: 90px;
+    background: black;
+    color: white;
+}
+
+.coingame input {
+    border-radius: 5px;
+}
+
+.coingame p {
+    margin-top: 20px;
+}
